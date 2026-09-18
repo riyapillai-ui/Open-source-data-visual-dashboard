@@ -1,0 +1,1 @@
+- [Streamlit Replit setup](streamlit-replit-setup.md) — Python tooling and headless flags are required for a reliable Streamlit preview workflow.
